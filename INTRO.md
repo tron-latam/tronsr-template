@@ -1,5 +1,5 @@
-All TRON-LATAM Content is available in both English/Spanish
-Todo el contenido de TRON-LATAM está disponible en ambos Inglés/Español
+All TRON-LATAM Content is available in both English/Spanish.<br/>
+Todo el contenido de TRON-LATAM está disponible en ambos Inglés/Español.<br/>
 
 We are a team of web developers and analysts from Latin America seeking to improve TRON Network not only by becoming Super Representatives and validating transactions but also by adding value with different projects that bring more users from all over the world to become part of the TRON ecosystem.
 
